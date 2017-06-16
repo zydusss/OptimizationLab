@@ -11,5 +11,4 @@ Sample : 15 Numbers
 Buckets : A & B
 
 
-Link to Google Sheet (OpenSolver)
-(Google Spread Sheet)[https://docs.google.com/spreadsheets/d/1xmHK0ZT2wLb_AUtRnezR19niqK0zoTzF9YI4PZghmKw/edit?usp=sharing]
+[Link to Google Sheet (OpenSolver)](https://docs.google.com/spreadsheets/d/1xmHK0ZT2wLb_AUtRnezR19niqK0zoTzF9YI4PZghmKw/edit?usp=sharing)
