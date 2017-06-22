@@ -3,17 +3,17 @@ Davids Tool Corporation
 Manufacturer of Slingshot kits & Stone Sheilds
 
 ----------------------------------------------------------------------------------------------------
-                        | Slingshot Kits         | Stone Shields           | Resources
+                            | Slingshot Kits         | Stone Shields           | Resources
 ----------------------------------------------------------------------------------------------------
-Stone Gathering Time    | 2 Hours                | 3 Hours                 | 100 Hours
+    Stone Gathering Time    | 2 Hours                | 3 Hours                 | 100 Hours
 ----------------------------------------------------------------------------------------------------
-Stone Smoothing         | 1 Hour                 | 2 Hours                 | 60 Hours
+    Stone Smoothing         | 1 Hour                 | 2 Hours                 | 60 Hours
 ----------------------------------------------------------------------------------------------------
-Delivery Time           | 1 Hour                 | 1 Hour                  | 50 Hours
+    Delivery Time           | 1 Hour                 | 1 Hour                  | 50 Hours
 ----------------------------------------------------------------------------------------------------
-Demand                  | 40 Units               | 30 Units
+    Demand                  | 40 Units               | 30 Units
 ----------------------------------------------------------------------------
-Profit                  | 3 shekels              | 5 shekels
+    Profit                  | 3 shekels              | 5 shekels
 ----------------------------------------------------------------------------
 
 Maximise Profit
