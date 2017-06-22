@@ -15,9 +15,14 @@ Decision Variables : How Many Kits(K) ? How Many Shields(S) ?
 
 Objective Function : Maximise(3K + 5S)
 
-Constraints        : a. Stone Gathering Constraint :: 2K + 3S <= 100
+Constraints        :
+ 
+                     a. Stone Gathering Constraint :: 2K + 3S <= 100
+                     
                      b. Smoothing Constraint       :: 1K + 2S <= 60
+                     
                      c. Delivery Constraint        :: 1K + 1S <= 50
+                     
                      d. Demand Constraint          :: K <= 40
                                                       S <= 30
                                                       
