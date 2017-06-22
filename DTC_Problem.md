@@ -9,11 +9,14 @@ Manufacturer of Slingshot kits & Stone Sheilds
     Demand                  | 40 Units               | 30 Units
     Profit                  | 3 shekels              | 5 shekels
 
-Maximise Profit
 
-Decision Variables : How Many Kits(K) ? How Many Shields(S) ?
+Decision Variables : 
 
-Objective Function : Maximise(3K + 5S)
+                    How Many Kits(K) ? How Many Shields(S) ?
+
+Objective Function : 
+  
+                    Maximise Profit =>  Maximise(3K + 5S)
 
 Constraints        :
  
