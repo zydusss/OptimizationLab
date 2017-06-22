@@ -33,3 +33,7 @@ Constraints        :
                                                       S >= 0
                                                      
                      f. K, S  are Integers   
+
+
+[Solution](https://docs.google.com/spreadsheets/d/1vucRILu98IKJQYv0PbaPdADPw8CA9bRcqa-CeeN5anw/edit#gid=0)
+
