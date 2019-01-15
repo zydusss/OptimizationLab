@@ -1,3 +1,3 @@
 ### OptimizationLab
 
-Optimisation Use cases
+Optimisation Use Cases
